@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m Mahyar a programmer and a computer engineering student in IKIU.<br><br> I’m currently learning ML and Deep Learning
+👋 Hi, I’m Mahyar; a programmer and a computer engineering student in IKIU.
+
+🌱 I’m currently learning ML and Deep-learning.
+
+👀 I’m interested in algorithms, AI and video games
+
+📫 You can reach me via telegram https://t.me/Mahyarhematti or my gmail mahyarhemati84@gmail.com
+
+☕ I can speak English and Persian
 
 
 ## 🌐 Socials:
